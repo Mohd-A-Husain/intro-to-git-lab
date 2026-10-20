@@ -15,3 +15,5 @@ It will get a version of the file that are in your repo and pull them into you l
 3. Once you've cloned the repo, how do you open it in VS Code?
 
 ANSWER: code .
+
+Mohamed Ali Mohamed Husain
